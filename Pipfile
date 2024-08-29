@@ -24,6 +24,7 @@ langchain-ollama = "*"
 langchain-community = "*"
 isort = "*"
 langchainhub = "*"
+firecrawl-py = "*"
 
 [dev-packages]
 

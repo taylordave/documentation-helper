@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "d244b52996cb418b2bab69a8377a2098ea2bf9324e4c479c37894af89a643697"
+            "sha256": "113da6c2c278455d6b0d5b431e512f8cf7cd0a3aced7d367062a58725e487cfe"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -391,6 +391,15 @@
                 "sha256:7ce71b6880181241cf7ac8697a2f1eb6a8bd9b429f7ad6d27b8db9ba5f1c2d25"
             ],
             "version": "==1.2.0"
+        },
+        "firecrawl-py": {
+            "hashes": [
+                "sha256:3586599e2745d4123969509968a80601fb0588404e2b99341894c5be30c22769",
+                "sha256:70b48ba3b305e937262d490943b399d3bc04d5daaa500fe4efbc51acb0e24565"
+            ],
+            "index": "pypi",
+            "markers": "python_version >= '3.8'",
+            "version": "==1.0.1"
         },
         "frozenlist": {
             "hashes": [
@@ -1207,7 +1216,7 @@
                 "sha256:f870204a840a60da0b12273ef34f7051e98c3b5961b61b0c2c1be6dfd64fbcd3",
                 "sha256:ffa75af20b44f8dba823498024771d5ac50620e6915abac414251bd971b4529f"
             ],
-            "markers": "python_version < '3.12'",
+            "markers": "python_version >= '3.9'",
             "version": "==1.26.4"
         },
         "ollama": {
@@ -1220,12 +1229,12 @@
         },
         "openai": {
             "hashes": [
-                "sha256:c9d31853b4e0bc2dc8bd08003b462a006035655a701471695d0bfdc08529cde3",
-                "sha256:dc91e0307033a4f94931e5d03cc3b29b9717014ad5e73f9f2051b6cb5eda4d80"
+                "sha256:1a748c2728edd3a738a72a0212ba866f4fdbe39c9ae03813508b267d45104abe",
+                "sha256:e607aff9fc3e28eade107e5edd8ca95a910a4b12589336d3cbb6bfe2ac306b3c"
             ],
             "index": "pypi",
             "markers": "python_full_version >= '3.7.1'",
-            "version": "==1.42.0"
+            "version": "==1.43.0"
         },
         "orderly-set": {
             "hashes": [
@@ -1555,7 +1564,7 @@
                 "sha256:6f62c13d067b0755ad1c21a34bdd06c0c12625a22b0fc09c6b149816604f7c2a",
                 "sha256:73ee9fddd406dc318b885c7a2eab8a6472b68b8fb5ba8150949fc3db939f23c8"
             ],
-            "markers": "python_full_version < '3.12.4'",
+            "markers": "python_version >= '3.8'",
             "version": "==2.8.2"
         },
         "pydantic-core": {
