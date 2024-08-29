@@ -7,7 +7,7 @@ from langchain_pinecone import PineconeVectorStore
 
 load_dotenv()
 
-embeddings = OllamaEmbeddings(model='mistral')
+embeddings = OllamaEmbeddings(model='nomic-embed-text')
 
 
 def ingest_docs():
